@@ -15,3 +15,6 @@ This project fulfills the requirements for Module 1, focusing on Modern JS, Type
 
 OUTPUT SCREENSHOT Link
 https://uploadnow.io/files/mb6JbJS
+
+##VERCEL OPENING LINK
+https://mern-day1-assignment.vercel.app
